@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Yuanzhe Hu**, an EEE student at **UCL** since 2021. Welcome to my GitHub profile!
+I'm **Yuanzhe Hu**, an EE student at **University College London** since 2021. Welcome to my GitHub profile!
 
 ### 👨‍💻 About Me
 
