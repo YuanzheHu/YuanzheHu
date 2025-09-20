@@ -9,11 +9,9 @@
 ---
 
 ## 🌐 **Technical Interests**
-- **Embedded Software (Professional Work)**  
-  *Linux system programming, driver-level development, and low-level software optimization.*  
-
-- **AI Infrastructure (Self-learning & Personal Interest)**  
-  *Currently exploring CUDA programming, TensorRT, ONNX and system-level acceleration for AI workloads.*  
+- **Embedded Software Engineer (Professional Work)** — *Linux system programming, driver-level development, low-level software optimization*  
+- **AI Infrastructure (Personal Interest & Self-learning)** — *Exploring CUDA programming, TensorRT, ONNX, system-level acceleration for inference deployment*  
+- **AI Algorithms (Personal Interest & Self-learning)** — *Interested in machine learning algorithms and their applications*  
 
 ---
 
