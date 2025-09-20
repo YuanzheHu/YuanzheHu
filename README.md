@@ -13,7 +13,7 @@
   *Linux system programming, driver-level development, and low-level software optimization.*  
 
 - **AI Infrastructure (Self-learning & Personal Interest)**  
-  *Currently exploring CUDA programming, TensorRT deployment, and system-level acceleration for AI workloads.*  
+  *Currently exploring CUDA programming, TensorRT,ONNX and system-level acceleration for AI workloads.*  
 
 ---
 
